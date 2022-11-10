@@ -14,16 +14,23 @@ Download the source code and open ./src/ZacCAD.sln by Visual Studio 2022, then y
 #### Main Features
 
 * Supports entities: point, line, xline, ray, polyline, circle, ellipse, arc, text.
+
 * Zoom pan extend plus minus.
+
 * Layer。
+
 * Grip points.
+
 * Snap.
+
 * Basic editing tools: delete, copy, mirror, offset, move, rotate.
+
 * Undo and Redo.
+
 * Multiple Ways For Object Selection: Pick Single、Window、Cross.
+
 * Open and Save *.zcad file.
-* Import and Export *.dxf file.
-* Command line
+
 * Can switch between Italian and English.
 
 
@@ -39,31 +46,6 @@ Download the source code and open ./src/ZacCAD.sln by Visual Studio 2022, then y
 * arc
 * text
 
-
-## To Do
-
-#### Draw
-
-* Dimensions
-
-
-#### Modify
-
-* Scale
-* Stretch
-* Trim
-* Extend
-* Fillet
-
-
-## Contribute
-
-Anyone and everyone is welcome to [contribute](CONTRIBUTING.md).
-
-
-
-
 # LICENSE
 
 This project is licensed under the [MIT License](LICENSE).
-
