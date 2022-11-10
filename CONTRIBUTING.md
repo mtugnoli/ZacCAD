@@ -7,7 +7,7 @@ We do not currently accept new PRs for full features, for example a new Toolkit 
 * Bugs you find while using ZacCAD.
 * Requests for new features or enhancements to existing.
 
-## Contributing to the ArcGIS Runtime SDK for .NET Toolkit
+## Contributing to the ZacCAD project
 
 This guide describes how you can contribute improvements to the ZacCAD source code.
 
