@@ -56,6 +56,12 @@ Download the source code and open ./src/ZacCAD.sln by Visual Studio 2022, then y
 * Fillet
 
 
+## Contribute
+
+Anyone and everyone is welcome to [contribute](CONTRIBUTING.md).
+
+
+
 
 # LICENSE
 
