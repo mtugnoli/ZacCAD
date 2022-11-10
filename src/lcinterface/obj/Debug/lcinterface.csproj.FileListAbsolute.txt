@@ -1,0 +1,14 @@
+E:\Sorgenti Marco\SharpCAD\lcinterface\obj\Debug\lcinterface.csproj.AssemblyReference.cache
+E:\Sorgenti Marco\SharpCAD\lcinterface\obj\Debug\lcinterface.csproj.CoreCompileInputs.cache
+E:\Sorgenti Marco\SharpCAD\bin\Debug\lcinterface.dll
+E:\Sorgenti Marco\SharpCAD\bin\Debug\lcinterface.pdb
+E:\Sorgenti Marco\SharpCAD\lcinterface\obj\Debug\lcinterface.csproj.CopyComplete
+E:\Sorgenti Marco\SharpCAD\lcinterface\obj\Debug\lcinterface.dll
+E:\Sorgenti Marco\SharpCAD\lcinterface\obj\Debug\lcinterface.pdb
+E:\Sorgenti Marco\ZacCAD\bin\Debug\lcinterface.dll
+E:\Sorgenti Marco\ZacCAD\bin\Debug\lcinterface.pdb
+E:\Sorgenti Marco\ZacCAD\lcinterface\obj\Debug\lcinterface.csproj.AssemblyReference.cache
+E:\Sorgenti Marco\ZacCAD\lcinterface\obj\Debug\lcinterface.csproj.CoreCompileInputs.cache
+E:\Sorgenti Marco\ZacCAD\lcinterface\obj\Debug\lcinterface.csproj.CopyComplete
+E:\Sorgenti Marco\ZacCAD\lcinterface\obj\Debug\lcinterface.dll
+E:\Sorgenti Marco\ZacCAD\lcinterface\obj\Debug\lcinterface.pdb

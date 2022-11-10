@@ -1,0 +1,21 @@
+E:\Downloads\SharpCAD-master\src\bin\Debug\lcdb.dll
+E:\Downloads\SharpCAD-master\src\bin\Debug\lcdb.pdb
+E:\Downloads\SharpCAD-master\src\lcdb\obj\Debug\lcdb.csproj.AssemblyReference.cache
+E:\Downloads\SharpCAD-master\src\lcdb\obj\Debug\lcdb.csproj.CoreCompileInputs.cache
+E:\Downloads\SharpCAD-master\src\lcdb\obj\Debug\lcdb.csproj.CopyComplete
+E:\Downloads\SharpCAD-master\src\lcdb\obj\Debug\lcdb.dll
+E:\Downloads\SharpCAD-master\src\lcdb\obj\Debug\lcdb.pdb
+E:\Sorgenti Marco\SharpCAD\bin\Debug\lcdb.dll
+E:\Sorgenti Marco\SharpCAD\bin\Debug\lcdb.pdb
+E:\Sorgenti Marco\SharpCAD\lcdb\obj\Debug\lcdb.csproj.AssemblyReference.cache
+E:\Sorgenti Marco\SharpCAD\lcdb\obj\Debug\lcdb.csproj.CoreCompileInputs.cache
+E:\Sorgenti Marco\SharpCAD\lcdb\obj\Debug\lcdb.csproj.CopyComplete
+E:\Sorgenti Marco\SharpCAD\lcdb\obj\Debug\lcdb.dll
+E:\Sorgenti Marco\SharpCAD\lcdb\obj\Debug\lcdb.pdb
+E:\Sorgenti Marco\ZacCAD\bin\Debug\lcdb.dll
+E:\Sorgenti Marco\ZacCAD\bin\Debug\lcdb.pdb
+E:\Sorgenti Marco\ZacCAD\lcdb\obj\Debug\lcdb.csproj.AssemblyReference.cache
+E:\Sorgenti Marco\ZacCAD\lcdb\obj\Debug\lcdb.csproj.CoreCompileInputs.cache
+E:\Sorgenti Marco\ZacCAD\lcdb\obj\Debug\lcdb.csproj.CopyComplete
+E:\Sorgenti Marco\ZacCAD\lcdb\obj\Debug\lcdb.dll
+E:\Sorgenti Marco\ZacCAD\lcdb\obj\Debug\lcdb.pdb

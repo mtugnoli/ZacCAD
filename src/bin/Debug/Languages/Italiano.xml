@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Italiano>
+	<Menu_File>File</Menu_File>
+	<MenuItem_New>Nuovo...</MenuItem_New>
+	<MenuItem_Open>Apri...</MenuItem_Open>
+	<MenuItem_Save>Salva...</MenuItem_Save>
+	<MenuItem_SaveAs>Salva Come...</MenuItem_SaveAs>
+	<Menu_Edit>Modifica</Menu_Edit>
+	<MenuItem_Undo>Undo</MenuItem_Undo>
+	<MenuItem_Redo>Redo</MenuItem_Redo>
+	<Menu_Format>Format</Menu_Format>
+	<MenuItem_Layer>Piano</MenuItem_Layer>
+	<Menu_Draw>Disegno</Menu_Draw>
+	<MenuItem_Point>Punto</MenuItem_Point>
+	<MenuItem_Line>Linea</MenuItem_Line>
+	<MenuItem_Ray>Ray</MenuItem_Ray>
+	<MenuItem_XLine>Xlinea</MenuItem_XLine>
+	<MenuItem_Polyline>Polylinea</MenuItem_Polyline>
+	<MenuItem_Polygon>Polygono</MenuItem_Polygon>
+	<MenuItem_Rectangle>Rettangolo</MenuItem_Rectangle>
+	<MenuItem_Circle>Cerchio</MenuItem_Circle>
+	<MenuItem_Ellipse>Ellisse</MenuItem_Ellipse>
+	<MenuItem_Arc>Arco</MenuItem_Arc>
+	<MenuItem_Text>Testo</MenuItem_Text>
+	<Menu_Modify>Modifica</Menu_Modify>
+	<MenuItem_Erase>Elimina</MenuItem_Erase>
+	<MenuItem_Copy>Copia</MenuItem_Copy>
+	<MenuItem_Mirror>Specchio</MenuItem_Mirror>
+	<MenuItem_Offset>Offset</MenuItem_Offset>
+	<MenuItem_Move>Sposta</MenuItem_Move>
+	<MenuItem_Rotate>Ruota</MenuItem_Rotate>
+	<MenuItem_Info>Info</MenuItem_Info>
+	<Document_New>Nuovo</Document_New>
+	<Document_LayerManger>Gestore delle funzionalità di livello</Document_LayerManger>
+	<Document_LayerName>Nome</Document_LayerName>
+	<Document_LayerDesc>Descrizione</Document_LayerDesc>
+	<Document_LayerColor>Colore</Document_LayerColor>
+	<Document_LayerLineType>Tipo Linea</Document_LayerLineType>
+	<Document_LayerLock>Blocco</Document_LayerLock>
+	<Document_LayerItemTitle>Crea Piano</Document_LayerItemTitle>
+	<Document_LayerItemLayerName>Nome Piano</Document_LayerItemLayerName>
+	<Document_LayerItemLayerDesc>Descrizione</Document_LayerItemLayerDesc>
+	<Document_LayerItemLayerColor>Colore</Document_LayerItemLayerColor>
+	<Document_SaveFilter>ZacCAD File(*.zcad)|*.zcad</Document_SaveFilter>
+	<Document_SaveAsFilter>ZacCAD File(*.zcad)|*.zcad|Dxf File(*.dxf)|*.dxf</Document_SaveAsFilter>
+	<Color_Red>Rosso</Color_Red>
+	<Color_Yellow>Giallo</Color_Yellow>
+	<Color_Green>Verde</Color_Green>
+	<Color_Cyan>Ciano</Color_Cyan>
+	<Color_Blue>Blu</Color_Blue>
+	<Color_Magenta>Magenta</Color_Magenta>
+	<Color_White>Bianco</Color_White>
+	<Color_ByLayer>DaPiano</Color_ByLayer>
+	<Color_ByBlock>DaBlocco</Color_ByBlock>
+	<Color_None>Nessuno</Color_None>
+	<Color_Choose>Scegli Colore...</Color_Choose>
+	<LineType_ByLayer>DaPiano</LineType_ByLayer>
+	<LineType_ByBlock>DaBlocco</LineType_ByBlock>
+	<LineType_Solid>Continua</LineType_Solid>
+	<LineType_Dash>Tratteggiata</LineType_Dash>
+	<LineType_Dot>Punto</LineType_Dot>
+	<LineType_DashDot>Tratto-Punto</LineType_DashDot>
+	<LineType_DashDotDot>Tratto-Punto-Punto</LineType_DashDotDot>
+	<LineType_Custom>Personalizzato</LineType_Custom>
+	<Button_Modify>Modifica</Button_Modify>
+	<Button_Add>Aggiungi</Button_Add>
+	<Button_Delete>Elimina</Button_Delete>
+	<Button_Ok>OK</Button_Ok>
+	<Button_Cancel>ANNULLA</Button_Cancel>
+	<Menu_Tool>Srumento</Menu_Tool>
+	<Menu_Help>Aiuto</Menu_Help>
+	<Menu_Zoom>Zoom</Menu_Zoom>
+	<MenuZoom_Plus>Più</MenuZoom_Plus>
+	<MenuZoom_Minus>Meno</MenuZoom_Minus>
+	<MenuZoom_Extend>Estensioni</MenuZoom_Extend>
+	<Command_PointCenter>Centro :</Command_PointCenter>
+	<Command_PointFirst>Primo punto :</Command_PointFirst>
+	<Command_PointSecond>Secondo punto :</Command_PointSecond>
+	<Command_PointNext>Prossimo punto :</Command_PointNext>
+	<Command_PointSpecified>Selezionare un punto :</Command_PointSpecified>
+	<Command_PointAxisX>Punto asse maggiore :</Command_PointAxisX>
+	<Command_PointAxisY>Punto asse minore :</Command_PointAxisY>
+	<Command_PointPass>Punto passante :</Command_PointPass>
+	<Command_PointStart>Selezionare punto iniziale :</Command_PointStart>
+	<Command_ValueRadius>Raggio :</Command_ValueRadius>
+	<Command_ValueAngle>Angolo :</Command_ValueAngle>
+	<Command_ValueText>Testo :</Command_ValueText>
+	<Command_ValueEdges>Numero lati :</Command_ValueEdges>
+	<Command_ValuePolygonOptions>Indicare circonferenza [(I)nscritta] oppure [(C)ircoscritta] :</Command_ValuePolygonOptions>
+	<Command_PointPolilyneOptions>Specificare punto successivo o [(L)inea] [(A)rco] :</Command_PointPolilyneOptions>
+	<Command_ValueOffsetDist>Distanza offset:</Command_ValueOffsetDist>
+	<Command_SelectObjects>Selezionare oggetti :</Command_SelectObjects>
+	<Command_Command>Comando :</Command_Command>
+	<Command_Cancel>** Annullato ** :</Command_Cancel>
+	<Status_OrthoOn>ORTHO ON</Status_OrthoOn>
+	<Status_OrthoOff>ORTHO OFF</Status_OrthoOff>
+</Italiano>

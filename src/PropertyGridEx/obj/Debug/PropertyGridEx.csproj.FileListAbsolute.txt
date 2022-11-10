@@ -1,0 +1,18 @@
+E:\Downloads\propertygridexcs\PropertyGridEx.CS\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+E:\Downloads\propertygridexcs\PropertyGridEx.CS\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+E:\Downloads\propertygridexcs\PropertyGridEx.CS\PropertyGridEx\obj\Debug\PropertyGridEx.csproj.AssemblyReference.cache
+E:\Downloads\propertygridexcs\PropertyGridEx.CS\PropertyGridEx\obj\Debug\PropertyGridEx.csproj.CoreCompileInputs.cache
+E:\Downloads\propertygridexcs\PropertyGridEx.CS\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+E:\Downloads\propertygridexcs\PropertyGridEx.CS\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+E:\Sorgenti Marco\SharpCAD\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+E:\Sorgenti Marco\SharpCAD\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+E:\Sorgenti Marco\SharpCAD\PropertyGridEx\obj\Debug\PropertyGridEx.csproj.CoreCompileInputs.cache
+E:\Sorgenti Marco\SharpCAD\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+E:\Sorgenti Marco\SharpCAD\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+E:\Sorgenti Marco\SharpCAD\PropertyGridEx\obj\Debug\PropertyGridEx.csproj.AssemblyReference.cache
+E:\Sorgenti Marco\ZacCAD\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+E:\Sorgenti Marco\ZacCAD\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+E:\Sorgenti Marco\ZacCAD\PropertyGridEx\obj\Debug\PropertyGridEx.csproj.CoreCompileInputs.cache
+E:\Sorgenti Marco\ZacCAD\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+E:\Sorgenti Marco\ZacCAD\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+E:\Sorgenti Marco\ZacCAD\PropertyGridEx\obj\Debug\PropertyGridEx.csproj.AssemblyReference.cache

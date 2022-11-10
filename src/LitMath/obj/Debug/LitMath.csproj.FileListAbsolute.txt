@@ -1,0 +1,11 @@
+E:\Sorgenti Marco\SharpCAD\bin\Debug\LitMath.dll
+E:\Sorgenti Marco\SharpCAD\bin\Debug\LitMath.pdb
+E:\Sorgenti Marco\SharpCAD\LitMath\obj\Debug\LitMath.csproj.CoreCompileInputs.cache
+E:\Sorgenti Marco\SharpCAD\LitMath\obj\Debug\LitMath.dll
+E:\Sorgenti Marco\SharpCAD\LitMath\obj\Debug\LitMath.pdb
+E:\Sorgenti Marco\SharpCAD\LitMath\obj\Debug\LitMath.csproj.AssemblyReference.cache
+E:\Sorgenti Marco\ZacCAD\bin\Debug\LitMath.dll
+E:\Sorgenti Marco\ZacCAD\bin\Debug\LitMath.pdb
+E:\Sorgenti Marco\ZacCAD\LitMath\obj\Debug\LitMath.csproj.CoreCompileInputs.cache
+E:\Sorgenti Marco\ZacCAD\LitMath\obj\Debug\LitMath.dll
+E:\Sorgenti Marco\ZacCAD\LitMath\obj\Debug\LitMath.pdb
