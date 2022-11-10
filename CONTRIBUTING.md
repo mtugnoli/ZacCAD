@@ -2,7 +2,7 @@
 
 mtugnoli welcomes contributions to our open source projects on Github. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
-We do not currently accept new PRs for full features, for example a new Toolkit component or a significant change to an existing Toolkit component, but we do encourage you to submit issues for:
+We do not currently accept new PRs for full features, for example a new function or a significant change to an existing one, but we do encourage you to submit issues for:
 
 * Bugs you find while using ZacCAD.
 * Requests for new features or enhancements to existing.
